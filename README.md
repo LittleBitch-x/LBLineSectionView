@@ -3,6 +3,7 @@
 
 
 # 使用方法：
+<p>
  - (UIView *)tableView:(UITableView *)tableView viewForFooterInSection:(NSInteger)section
 {
 
@@ -13,4 +14,4 @@
     return lineSectionView;
     
 }
-
+</p>
